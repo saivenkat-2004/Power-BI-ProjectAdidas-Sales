@@ -1,3 +1,7 @@
+<img width="1291" height="726" alt="Screenshot 2025-09-23 010104" src="https://github.com/user-attachments/assets/57e9282e-42e3-4f74-9dac-8ed1221f8b1a" />
+<img width="1293" height="723" alt="Screenshot 2025-09-23 010138" src="https://github.com/user-attachments/assets/e73f8a38-8259-434b-8ab4-670e071752ad" />
+
+
 **Project Overview**
 
 This Power BI project analyzes sales and operating profit data across various regions and product categories. The dashboard provides key insights into sales trends, performance by product and retailer, and the influence of operating profit, helping stakeholders make informed business decisions.
